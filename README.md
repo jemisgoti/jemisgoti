@@ -1,16 +1,61 @@
-### Hi there 👋
+# Hello it's working
+ I'm Jemis [website] 👋
 
-<!--
-**jemisgoti/jemisgoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=dhruvilgajjar.engineer&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dhruvilgajjar.engineer)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lucifer2355?color=1da1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flucifer2355&screen_name=lucifer2355)
 
-Here are some ideas to get you started:
+## I'm a Web & Mobile App Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Developer@Home!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Find a remote job
+- ⚡ Fun fact: I like thinking while listening to music
+
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+<!-- <details> -->
+
+### :zap: Github Stats
+
+  <img align="left" alt="lucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jemisgoti&show_icons=true&hide_border=true&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer2355&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- </details> -->
+
+[website]: https://dhruvilgajjar.engineer
+[twitter]: https://twitter.com/jemisgoti
+[instagram]: https://www.instagram.com/jemis_67/
+[linkedin]: https://www.linkedin.com/in/jemis-goti/
+
+<!-- AQBpMXZ7YDzSZOldGVfR1PHqL_vQI79_R3LQuWEfvrqugT8QifDcxMyoYoMzCndrfV6Olx0WH2HxugLnZDZiWF0TwTvXitMPuyNd3vVFKifhnm4RA8hwgmD1dYRiD7cwD_zm-qd-QFyu4sxdEnWVHfAAvftYUU-DAUYBzQbEZ9mev1ToEK7MNv5GieOTTZAM_tMTpP3enAB0seSpWihd-gNCVN5ws1zumV9a4Wk8h3Fa4bVyrcE -->
