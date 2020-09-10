@@ -1,8 +1,7 @@
 # Hello it's working
  I'm Jemis [website] 👋
 
-[![Website](https://img.shields.io/website?label=dhruvilgajjar.engineer&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dhruvilgajjar.engineer)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lucifer2355?color=1da1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flucifer2355&screen_name=lucifer2355)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jemisgoti?color=1da1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjemisgoti&screen_name=jemisgoti)
 
 ## I'm a Web & Mobile App Developer!
 
