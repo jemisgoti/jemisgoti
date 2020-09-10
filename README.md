@@ -1,5 +1,5 @@
 # Hello it's working
- I'm Jemis [website] 👋
+ I'm Jemis👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jemisgoti?color=1da1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjemisgoti&screen_name=jemisgoti)
 
